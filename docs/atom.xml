@@ -45,6 +45,25 @@
         
     </entry>
     <entry xml:lang="zh-Hant-TW">
+        <title>專案版本管理流程(試行)</title>
+        <published>2025-04-30T00:00:00+00:00</published>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://isms.npac-ntch.org/isms/zhuan-an-ban-ben-guan-li-liu-cheng/"/>
+        <id>https://isms.npac-ntch.org/isms/zhuan-an-ban-ben-guan-li-liu-cheng/</id>
+        
+        <summary type="html">&lt;p&gt;專案管理流程(試行)&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="zh-Hant-TW">
         <title>資通安全管理循環</title>
         <published>2025-04-30T00:00:00+00:00</published>
         <updated>2025-04-30T00:00:00+00:00</updated>
@@ -80,6 +99,25 @@
         <id>https://isms.npac-ntch.org/isms/zi-tong-an-quan-guan-li-zheng-ce/</id>
         
         <summary type="html">&lt;p&gt;資通安全政策涵蓋風險管理、資產保護(CIA)、系統韌性及人員訓練等規範。資安目標設有量化指標（如系統可用時間、演練達成率）及質化要求（如持續改善、風險降低、廠商管理），共同致力於提升資通安全防護與應變能力。&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="zh-Hant-TW">
+        <title>危害國家資通安全產品限制使用原則</title>
+        <published>2025-04-08T00:00:00+00:00</published>
+        <updated>2025-04-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://isms.npac-ntch.org/rule/wei-hai-guo-jia-zi-tong-an-quan-chan-pin-xian-zhi-shi-yong-yuan-ze/"/>
+        <id>https://isms.npac-ntch.org/rule/wei-hai-guo-jia-zi-tong-an-quan-chan-pin-xian-zhi-shi-yong-yuan-ze/</id>
+        
+        <summary type="html">&lt;p&gt;為因應新型態數位服務延伸之新興資安風險，各公務機關應遵循「各機關對危害國家資通安全產品限制使用原則」，並請依說明辦理&lt;&#x2F;p&gt;</summary>
         
     </entry>
     <entry xml:lang="zh-Hant-TW">
