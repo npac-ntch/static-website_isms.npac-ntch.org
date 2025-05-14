@@ -1,0 +1,3 @@
+[submodule "themes/jiufen"]
+	path = themes/jiufen
+	url = https://github.com/4yuinfo/zola-theme_jiufen.git
