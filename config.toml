@@ -1,0 +1,55 @@
+base_url = "https://isms.npac-ntch.org"
+default_language = "zh-Hant-TW"
+title = "兩廳院資安制度"
+description = ""
+compile_sass = false
+minify_html = true
+build_search_index = true
+generate_feeds = true
+generate_sitemap = true
+generate_robots_txt = true
+theme="jiufen"
+
+taxonomies = [
+    {name = "tags", feed = true, paginate_by = 10 },
+]
+
+[slugify]
+taxonomies = "safe"
+
+[markdown]
+highlight_code = true
+error_on_missing_highlight = false
+#highlight_theme = "material-dark"
+#highlight_theme = "one-dark"
+#highlight_theme = "railsbase16-green-screen-dark"
+highlight_theme = "solarized-dark"
+#highlight_theme = "nord"
+render_emoji = true
+smart_punctuation = true
+definition_list = true
+lazy_async_image = false
+bottom_footnotes = false
+insert_anchor_links = "none"
+
+
+[search]
+include_title = true
+include_content = true
+include_description = true
+include_date = false
+include_path = false
+index_format = "fuse_javascript"
+
+[extra]
+site_name = '國家表演藝術中心國家兩廳院資通安全管理制度'
+site_desc = '歡迎來到我們的資通安全制度網站,我們深知在數位化時代,資訊安全的重要性日益提升,我們致力於建立一個安全、可信賴的營運環境。'
+copyright = "Copyright © 2025 國家表演藝術中心國家兩廳院 All rights reserved."
+navigation_display_top = true
+navigation_display_sidebar = true
+navigation = [
+    {name = '<i class="fa-solid fa-house"></i>', url = "/", top = true, sidebar = false},
+    {name = "管理制度", url = "/isms/", top = true, sidebar = true },
+    {name = "資安規定", url = "/rule/", top = true, sidebar = true },
+    {name = "資安宣導", url = "/pub/", top = true, sidebar = true },
+]
