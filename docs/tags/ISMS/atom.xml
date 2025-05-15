@@ -7,6 +7,25 @@
     <updated>2025-04-30T00:00:00+00:00</updated>
     <id>https://isms.npac-ntch.org/tags/ISMS/atom.xml</id>
     <entry xml:lang="zh-Hant-TW">
+        <title>版本管理流程(試行)</title>
+        <published>2025-04-30T00:00:00+00:00</published>
+        <updated>2025-04-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://isms.npac-ntch.org/isms/ban-ben-guan-li-liu-cheng/"/>
+        <id>https://isms.npac-ntch.org/isms/ban-ben-guan-li-liu-cheng/</id>
+        
+        <summary type="html">&lt;p&gt;版本管理流程(試行)&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="zh-Hant-TW">
         <title>資通系統與資通服務分類</title>
         <published>2025-04-30T00:00:00+00:00</published>
         <updated>2025-04-30T00:00:00+00:00</updated>
@@ -23,25 +42,6 @@
         <id>https://isms.npac-ntch.org/isms/xi-tong-yu-fu-wu-fen-lei/</id>
         
         <summary type="html">&lt;p&gt;資通系統與服務的五種分類（共通、客製、套裝、工控、服務），並詳細對應各類型的法源依據及說明，旨在釐清不同系統服務的定義、特性與相關資安規範，以利管理與遵循法規要求。&lt;&#x2F;p&gt;</summary>
-        
-    </entry>
-    <entry xml:lang="zh-Hant-TW">
-        <title>專案版本管理流程(試行)</title>
-        <published>2025-04-30T00:00:00+00:00</published>
-        <updated>2025-04-30T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Unknown
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://isms.npac-ntch.org/isms/zhuan-an-ban-ben-guan-li-liu-cheng/"/>
-        <id>https://isms.npac-ntch.org/isms/zhuan-an-ban-ben-guan-li-liu-cheng/</id>
-        
-        <summary type="html">&lt;p&gt;專案管理流程(試行)&lt;&#x2F;p&gt;</summary>
         
     </entry>
     <entry xml:lang="zh-Hant-TW">
