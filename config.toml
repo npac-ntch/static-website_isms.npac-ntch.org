@@ -44,6 +44,7 @@ index_format = "fuse_javascript"
 site_name = '國家表演藝術中心國家兩廳院資通安全管理制度'
 site_desc = '歡迎來到我們的資通安全制度網站,我們深知在數位化時代,資訊安全的重要性日益提升,我們致力於建立一個安全、可信賴的營運環境。'
 copyright = "Copyright © 2025 國家表演藝術中心國家兩廳院 All rights reserved."
+
 navigation_display_top = true
 navigation_display_sidebar = true
 navigation = [
@@ -52,9 +53,10 @@ navigation = [
     {name = "資安規定", url = "/rule/", top = true, sidebar = true },
     {name = "資安宣導", url = "/pub/", top = true, sidebar = true },
 ]
+
 google_analytics_id = "G-5766VTF7XN"
-google_analytics_anonymize_ip = false
-google_analytics_consent = true
-google_analytics_consent_message = "本網站使用 Cookie 以統計與改善體驗。您是否同意我們使用 Google Analytics 分析？ <br/>This website uses cookies for statistics and to improve your experience. Do you agree to our use of Google Analytics ?"
+google_analytics_anonymize_ip = true
+google_analytics_consent = false
+google_analytics_consent_message = "本網站使用 Cookie 以統計與改善體驗。您是否同意我們使用 Google Analytics 分析？"
 google_analytics_consent_accept_text = "同意(Agree)"
 google_analytics_consent_decline_text = "不同意(Disagree)"
