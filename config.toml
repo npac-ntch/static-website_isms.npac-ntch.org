@@ -52,11 +52,12 @@ navigation = [
     {name = "管理制度", url = "/isms/", top = true, sidebar = true },
     {name = "資安規定", url = "/rule/", top = true, sidebar = true },
     {name = "資安宣導", url = "/pub/", top = true, sidebar = true },
+    {name = "規定討論", url = "/discuss/", top = true, sidebar = true },
 ]
 
 google_analytics_id = "G-5766VTF7XN"
 google_analytics_anonymize_ip = true
-google_analytics_consent = false
+google_analytics_consent = true
 google_analytics_consent_message = "本網站使用 Cookie 以統計與改善體驗。您是否同意我們使用 Google Analytics 分析？"
 google_analytics_consent_accept_text = "同意(Agree)"
 google_analytics_consent_decline_text = "不同意(Disagree)"

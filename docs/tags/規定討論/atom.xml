@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant-TW">
+    <title>兩廳院資安制度 - 規定討論</title>
+    <link rel="self" type="application/atom+xml" href="https://isms.npac-ntch.org/tags/規定討論/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://isms.npac-ntch.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <id>https://isms.npac-ntch.org/tags/規定討論/atom.xml</id>
+    <entry xml:lang="zh-Hant-TW">
+        <title>錄影存放相關規定彙整</title>
+        <published>2025-10-15T00:00:00+00:00</published>
+        <updated>2025-10-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://isms.npac-ntch.org/discuss/lu-ying-cun-fang-xiang-guan-gui-ding-hui-zheng/"/>
+        <id>https://isms.npac-ntch.org/discuss/lu-ying-cun-fang-xiang-guan-gui-ding-hui-zheng/</id>
+        
+        <summary type="html">&lt;p&gt;錄影檔案存放應該保留多久&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
