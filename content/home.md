@@ -40,7 +40,7 @@ timeline
     : 管理審查會議(中心)
 {% end %}
 
-## 快速鏈結
+## 快速連結
 - [資通安全管理政策](/isms/zi-tong-an-quan-guan-li-zheng-ce/)
 - [資通安全管理循環](/isms/zi-tong-an-quan-guan-li-xun-huan/)
 - [資通系統與資通服務分類](/isms/xi-tong-yu-fu-wu-fen-lei/)
